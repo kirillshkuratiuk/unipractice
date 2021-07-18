@@ -1,4 +1,4 @@
-# TecwiTestTask
+# Practice
 Steps to run the application:
 1. Install node modules for angular (PL folder) (cli command: npm install --save-dev @angular-devkit/build-angular)
 2. Run angular (PL folder) (cli command: ng serve)
